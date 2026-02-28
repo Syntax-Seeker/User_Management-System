@@ -1,0 +1,18 @@
+# Exclude sensitive files
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Build output
+dist/
+
+# IDE specific files
+.idea/
+*.sublime-workspace
+*.sublime-project
